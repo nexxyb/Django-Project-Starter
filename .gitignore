@@ -274,4 +274,3 @@ portblog/media/
 .pytest_cache/
 .env
 .envs/*
-!.envs/.local/
